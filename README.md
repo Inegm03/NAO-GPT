@@ -1,5 +1,1 @@
-#NAO-gpt
-# nao_gpt
-# nao_gpt
-# interactive nao robot
-# interactive nao robot
+This project is a more immersive vertual assistant experience as nao has more human like tendicies as it sets waiting for any person to approach and then it stands up waves hello then fies up the chat gpt functionality and ready to answer any question and when the person says good bye making an end tpo the convo nao sets back down waiting for the next person approaching him
