@@ -1,1 +1,2 @@
 This project is a more immersive virtual assistant experience as nao has more human like tendicies as it sets waiting for any person to approach and then it stands up waves hello then fies up the chat gpt functionality and ready to answer any question and when the person says good bye making an end tpo the convo nao sets back down waiting for the next person approaching him
+it uses 2 python versions 2.7 to run nao and 3.7 to run chatgpt api so keep that in mind the file final code needs to be run at python 2.7 and testapi at 3.7 
